@@ -1,1 +1,1 @@
-TinDog Starting Files
+designed with HTML, CSS and Bootstrap.
